@@ -1,4 +1,4 @@
-# [Тестовое задание](https://gitverse.ru/sb-rs/cource/content/master/assignments/udp-hole.md)
+# [Описание задачи](https://gitverse.ru/sb-rs/cource/content/master/assignments/udp-hole.md)
 
 - [x] Регистрируется на сервере, сообщая свой внешний IP и порт через UDP.
 - [x] Получает адрес пира через HTTP-запрос.
